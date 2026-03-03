@@ -21,9 +21,7 @@ jobs:
         cache: 'npm'
         
     - name: Install dependencies
-      run: |
-        cd ai-news-mcp
-        npm install
+      run: npm install
         
     - name: Run AI News System
       env:
@@ -33,7 +31,6 @@ jobs:
         EMAIL_PASS: ${{ secrets.EMAIL_PASS }}
         RECIPIENT_EMAIL: ${{ secrets.RECIPIENT_EMAIL }}
       run: |
-        cd ai-news-mcp
         echo "Running AI news collection and sending email..."
         node src/index.js
         
