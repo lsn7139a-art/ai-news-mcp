@@ -1,0 +1,297 @@
+{
+  "summary": {
+    "url": "https://mcpservers.org/category/web-scraping",
+    "timestamp": "2026-03-01T14:26:33.872Z",
+    "title": "Web Scraping | Awesome MCP Servers",
+    "description": "A curated collection of MCP (Model Context Protocol) servers. Search and discover MCP servers and clients.",
+    "category": "Web Scraping",
+    "totalServersOnSite": 276,
+    "extractedServers": 16,
+    "officialServers": 4,
+    "sponsoredServers": 1
+  },
+  "categories": [
+    {
+      "name": "Search",
+      "url": "https://mcpservers.org/category/search"
+    },
+    {
+      "name": "Web Scraping",
+      "url": "https://mcpservers.org/category/web-scraping"
+    },
+    {
+      "name": "Communication",
+      "url": "https://mcpservers.org/category/communication"
+    },
+    {
+      "name": "Productivity",
+      "url": "https://mcpservers.org/category/productivity"
+    },
+    {
+      "name": "Development",
+      "url": "https://mcpservers.org/category/development"
+    },
+    {
+      "name": "Database",
+      "url": "https://mcpservers.org/category/database"
+    },
+    {
+      "name": "Cloud Service",
+      "url": "https://mcpservers.org/category/cloud-service"
+    },
+    {
+      "name": "File System",
+      "url": "https://mcpservers.org/category/file-system"
+    },
+    {
+      "name": "Cloud Storage",
+      "url": "https://mcpservers.org/category/cloud-storage"
+    },
+    {
+      "name": "Version Control",
+      "url": "https://mcpservers.org/category/version-control"
+    },
+    {
+      "name": "Other",
+      "url": "https://mcpservers.org/category/other"
+    }
+  ],
+  "pagination": {
+    "currentPage": 1,
+    "totalPages": 10,
+    "pages": [
+      {
+        "page": 2,
+        "url": "https://mcpservers.org/category/web-scraping?page=2"
+      },
+      {
+        "page": 3,
+        "url": "https://mcpservers.org/category/web-scraping?page=3"
+      },
+      {
+        "page": 10,
+        "url": "https://mcpservers.org/category/web-scraping?page=10"
+      }
+    ]
+  },
+  "servers": [
+    {
+      "name": "Bright Data",
+      "description": "Discover, extract, and interact with the web - one interface powering automated access across the public internet.",
+      "isOfficial": false,
+      "isSponsor": true,
+      "tags": [
+        "automation",
+        "proxy",
+        "scraping"
+      ]
+    },
+    {
+      "name": "AgentQL",
+      "description": "Enable AI agents to get structured data from unstructured web with AgentQL.",
+      "isOfficial": true,
+      "isSponsor": false,
+      "tags": [
+        "ai",
+        "scraping",
+        "structured-data"
+      ]
+    },
+    {
+      "name": "Apify",
+      "description": "Extract data from any website with thousands of scrapers, crawlers, and automations",
+      "isOfficial": true,
+      "isSponsor": false,
+      "tags": [
+        "scraping",
+        "automation",
+        "cloud"
+      ]
+    },
+    {
+      "name": "B2Proxy",
+      "description": "1GB Free Trial, World's Leading Proxy Service Platform, Efficient Data Collection",
+      "isOfficial": true,
+      "isSponsor": false,
+      "tags": [
+        "proxy",
+        "scraping",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Browserbase",
+      "description": "Automate browser interactions in the cloud (e.g. web navigation, data extraction, form filling, and more)",
+      "isOfficial": true,
+      "isSponsor": false,
+      "tags": [
+        "browser",
+        "automation",
+        "cloud"
+      ]
+    },
+    {
+      "name": "BrowserUse",
+      "description": "An AI-powered browser automation server for natural language control and web research.",
+      "isOfficial": false,
+      "isSponsor": false,
+      "tags": [
+        "browser",
+        "automation",
+        "ai",
+        "research"
+      ]
+    },
+    {
+      "name": "anybrowse",
+      "description": "Convert any URL to LLM-ready Markdown via real Chrome browsers. 3 tools: scrape, crawl, search. Free via MCP, pay-per-use via x402.",
+      "isOfficial": false,
+      "isSponsor": false,
+      "tags": [
+        "browser",
+        "scraping",
+        "markdown",
+        "search"
+      ]
+    },
+    {
+      "name": "Amazon MCP Server",
+      "description": "Scrapes and searches for products on Amazon.",
+      "isOfficial": false,
+      "isSponsor": false,
+      "tags": [
+        "ecommerce",
+        "scraping",
+        "search",
+        "amazon"
+      ]
+    },
+    {
+      "name": "Airbnb MCP Server",
+      "description": "Search for Airbnb listings and retrieve detailed information without an API key.",
+      "isOfficial": false,
+      "isSponsor": false,
+      "tags": [
+        "ecommerce",
+        "search",
+        "airbnb",
+        "travel"
+      ]
+    },
+    {
+      "name": "Bilibili",
+      "description": "Interact with the Bilibili video website, enabling actions like searching for videos, retrieving video information, and accessing user data.",
+      "isOfficial": false,
+      "isSponsor": false,
+      "tags": [
+        "video",
+        "search",
+        "social",
+        "entertainment"
+      ]
+    },
+    {
+      "name": "Agentic Deep Researcher",
+      "description": "A deep research agent powered by Crew AI and the LinkUp API.",
+      "isOfficial": false,
+      "isSponsor": false,
+      "tags": [
+        "research",
+        "ai",
+        "search",
+        "automation"
+      ]
+    },
+    {
+      "name": "AI Shopping Assistant",
+      "description": "A conversational AI shopping assistant for web-based product discovery and decision-making.",
+      "isOfficial": false,
+      "isSponsor": false,
+      "tags": [
+        "ecommerce",
+        "ai",
+        "shopping",
+        "assistant"
+      ]
+    },
+    {
+      "name": "Anysite",
+      "description": "Turn any website into an API",
+      "isOfficial": false,
+      "isSponsor": false,
+      "tags": [
+        "api",
+        "scraping",
+        "automation"
+      ]
+    },
+    {
+      "name": "Automatic MCP Discovery",
+      "description": "AI powered automation toolkit which acts as an agent that discovers MCP servers for you.",
+      "isOfficial": false,
+      "isSponsor": false,
+      "tags": [
+        "automation",
+        "ai",
+        "discovery",
+        "mcp"
+      ]
+    },
+    {
+      "name": "Browser MCP",
+      "description": "A fast, lightweight MCP server that empowers LLMs with browser automation via Puppeteer's structured accessibility data.",
+      "isOfficial": false,
+      "isSponsor": false,
+      "tags": [
+        "browser",
+        "automation",
+        "puppeteer",
+        "llm"
+      ]
+    },
+    {
+      "name": "BrowserCat",
+      "description": "Automate remote browsers using the BrowserCat API.",
+      "isOfficial": false,
+      "isSponsor": false,
+      "tags": [
+        "browser",
+        "automation",
+        "cloud",
+        "api"
+      ]
+    }
+  ],
+  "statistics": {
+    "totalServers": 16,
+    "officialServers": 4,
+    "sponsoredServers": 1,
+    "tagDistribution": {
+      "automation": 9,
+      "proxy": 2,
+      "scraping": 7,
+      "ai": 5,
+      "structured-data": 1,
+      "cloud": 4,
+      "browser": 5,
+      "research": 2,
+      "markdown": 1,
+      "search": 5,
+      "ecommerce": 3,
+      "amazon": 1,
+      "airbnb": 1,
+      "travel": 1,
+      "video": 1,
+      "social": 1,
+      "entertainment": 1,
+      "shopping": 1,
+      "assistant": 1,
+      "api": 2,
+      "discovery": 1,
+      "mcp": 1,
+      "puppeteer": 1,
+      "llm": 1
+    },
+    "averageDescriptionLength": 86
+  }
+}

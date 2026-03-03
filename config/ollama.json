@@ -1,0 +1,16 @@
+{
+  "apiUrl": "http://localhost:11434",
+  "model": "llama2",
+  "timeout": 30000,
+  "maxTokens": 4096,
+  "temperature": 0.7,
+  "systemPrompt": "你是一个有用的AI助手。",
+  "enabled": true,
+  "fallbackToAnthropic": false,
+  "cloudConfig": {
+    "enabled": true,
+    "url": "https://api.openai.com/v1",
+    "apiKey": "sk-test123",
+    "model": "gpt-3.5-turbo"
+  }
+}

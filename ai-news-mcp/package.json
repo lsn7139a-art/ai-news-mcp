@@ -1,0 +1,35 @@
+{
+  "name": "ai-news-mcp-server",
+  "version": "1.0.0",
+  "description": "专为AI与大模型行业设计的自动化新闻收集和分析系统",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "test": "node test-system.js",
+    "test:debug": "DEBUG=true node test-system.js"
+  },
+  "keywords": [
+    "ai",
+    "news",
+    "automation",
+    "email",
+    "classification"
+  ],
+  "author": "AI News System",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0-rc.12",
+    "node-cron": "^3.0.3",
+    "nodemailer": "^6.9.7",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}

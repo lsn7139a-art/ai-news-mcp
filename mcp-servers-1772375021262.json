@@ -1,0 +1,94 @@
+{
+  "url": "https://mcpservers.org/category/web-scraping",
+  "timestamp": "2026-03-01T14:23:41.260Z",
+  "title": "Web Scraping | Awesome MCP Servers",
+  "description": "A curated collection of MCP (Model Context Protocol) servers. Search and discover MCP servers and clients.",
+  "category": "Web Scraping",
+  "servers": [],
+  "navigation": {
+    "categories": [
+      {
+        "url": "https://mcpservers.org/category/search",
+        "name": "Search"
+      },
+      {
+        "url": "https://mcpservers.org/category/web-scraping",
+        "name": "Web Scraping"
+      },
+      {
+        "url": "https://mcpservers.org/category/communication",
+        "name": "Communication"
+      },
+      {
+        "url": "https://mcpservers.org/category/productivity",
+        "name": "Productivity"
+      },
+      {
+        "url": "https://mcpservers.org/category/development",
+        "name": "Development"
+      },
+      {
+        "url": "https://mcpservers.org/category/database",
+        "name": "Database"
+      },
+      {
+        "url": "https://mcpservers.org/category/cloud-service",
+        "name": "Cloud Service"
+      },
+      {
+        "url": "https://mcpservers.org/category/file-system",
+        "name": "File System"
+      },
+      {
+        "url": "https://mcpservers.org/category/cloud-storage",
+        "name": "Cloud Storage"
+      },
+      {
+        "url": "https://mcpservers.org/category/version-control",
+        "name": "Version Control"
+      },
+      {
+        "url": "https://mcpservers.org/category/other",
+        "name": "Other"
+      },
+      {
+        "url": "https://mcpservers.org/category/web-scraping",
+        "name": "1"
+      },
+      {
+        "url": "https://mcpservers.org/category/web-scraping?page=2",
+        "name": "2"
+      },
+      {
+        "url": "https://mcpservers.org/category/web-scraping?page=3",
+        "name": "3"
+      },
+      {
+        "url": "https://mcpservers.org/category/web-scraping?page=10",
+        "name": "10"
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "totalPages": 10,
+      "pages": [
+        {
+          "url": "https://mcpservers.org/category/web-scraping?page=2",
+          "page": 2
+        },
+        {
+          "url": "https://mcpservers.org/category/web-scraping?page=3",
+          "page": 3
+        },
+        {
+          "url": "https://mcpservers.org/category/web-scraping?page=10",
+          "page": 10
+        }
+      ]
+    }
+  },
+  "stats": {
+    "totalServers": 0,
+    "displayedServers": 0
+  }
+}

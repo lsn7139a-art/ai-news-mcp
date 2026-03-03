@@ -1,0 +1,143 @@
+{
+  "url": "https://mcpservers.org/category/web-scraping",
+  "timestamp": "2026-03-01T14:21:34.964Z",
+  "title": "Web Scraping | Awesome MCP Servers",
+  "description": "A curated collection of MCP (Model Context Protocol) servers. Search and discover MCP servers and clients.",
+  "content": {
+    "headings": [
+      {
+        "level": 1,
+        "text": "Awesome MCP Servers"
+      },
+      {
+        "level": 2,
+        "text": "Model Context Protocol FAQ"
+      }
+    ],
+    "links": [
+      {
+        "url": "https://mcpservers.org/",
+        "text": "Home"
+      },
+      {
+        "url": "https://mcpservers.org/remote-mcp-servers",
+        "text": "Remote Servers"
+      },
+      {
+        "url": "https://mcpservers.org/clients",
+        "text": "Clients"
+      },
+      {
+        "url": "https://mcpservers.org/claude-skills",
+        "text": "Claude Skills"
+      },
+      {
+        "url": "https://mcpservers.org/submit",
+        "text": "Submit"
+      },
+      {
+        "url": "https://mcpservers.org/advertise",
+        "text": "Advertise"
+      },
+      {
+        "url": "https://mcpservers.org/submit",
+        "text": "Submit"
+      },
+      {
+        "url": "https://mcpservers.org/",
+        "text": "Featured"
+      },
+      {
+        "url": "https://mcpservers.org/all",
+        "text": "All"
+      },
+      {
+        "url": "https://mcpservers.org/official",
+        "text": "Official 🌟"
+      },
+      {
+        "url": "https://mcpservers.org/category/search",
+        "text": "Search"
+      },
+      {
+        "url": "https://mcpservers.org/category/web-scraping",
+        "text": "Web Scraping"
+      },
+      {
+        "url": "https://mcpservers.org/category/communication",
+        "text": "Communication"
+      },
+      {
+        "url": "https://mcpservers.org/category/productivity",
+        "text": "Productivity"
+      },
+      {
+        "url": "https://mcpservers.org/category/development",
+        "text": "Development"
+      },
+      {
+        "url": "https://mcpservers.org/category/database",
+        "text": "Database"
+      },
+      {
+        "url": "https://mcpservers.org/category/cloud-service",
+        "text": "Cloud Service"
+      },
+      {
+        "url": "https://mcpservers.org/category/file-system",
+        "text": "File System"
+      },
+      {
+        "url": "https://mcpservers.org/category/cloud-storage",
+        "text": "Cloud Storage"
+      },
+      {
+        "url": "https://mcpservers.org/category/version-control",
+        "text": "Version Control"
+      },
+      {
+        "url": "https://mcpservers.org/category/other",
+        "text": "Other"
+      },
+      {
+        "url": "https://mcpservers.org/category/web-scraping",
+        "text": "1"
+      },
+      {
+        "url": "https://mcpservers.org/category/web-scraping?page=2",
+        "text": "2"
+      },
+      {
+        "url": "https://mcpservers.org/category/web-scraping?page=3",
+        "text": "3"
+      },
+      {
+        "url": "https://mcpservers.org/category/web-scraping?page=10",
+        "text": "10"
+      },
+      {
+        "url": "https://mcpservers.org/all?sort=newest",
+        "text": "Newest MCP Servers"
+      },
+      {
+        "url": "https://mcpservers.org/official",
+        "text": "Official MCP Servers"
+      },
+      {
+        "url": "https://mcpservers.org/remote-mcp-servers",
+        "text": "Remote MCP Servers"
+      },
+      {
+        "url": "https://blog.mcpservers.org/",
+        "text": "Blog"
+      },
+      {
+        "url": "mailto:contact@mcpservers.org",
+        "text": "📧 contact@mcpservers.org"
+      }
+    ],
+    "text": "Web Scraping | Awesome MCP Servers MCP Servers Home Remote Servers Clients Claude Skills Submit Advertise Submit ✨ New: Claude Skills Awesome MCP Servers A collection of servers for the Model Context Protocol. Featured All Official 🌟 Search Web Scraping Communication Productivity Development Database Cloud Service File System Cloud Storage Version Control Other Showing 1 - 30 of 276 servers Sort by: Name (A-Z) Bright Data sponsor Discover, extract, and interact with the web - one interface powering automated access across the public internet. 302AI BrowserUse An AI-powered browser automation server for natural language control and web research. Agentic Deep Researcher A deep research agent powered by Crew AI and the LinkUp API. AgentQL official Enable AI agents to get structured data from unstructured web with AgentQL. AI Shopping Assistant A conversational AI shopping assistant for web-based product discovery and decision-making. Airbnb Search for Airbnb listings and retrieve their details. Airbnb MCP Server Search for Airbnb listings and retrieve detailed information without an API key. Amazon MCP Server Scrapes and searches for products on Amazon. Any Browser MCP Attaches to existing browser sessions using the Chrome DevTools Protocol for automation and interaction. anybrowse Convert any URL to LLM-ready Markdown via real Chrome browsers. 3 tools: scrape, crawl, search. Free via MCP, pay-per-use via x402. Anysite Turn any website into an API Apify official Extract data from any website with thousands of scrapers, crawlers, and automations Automatic MCP Discovery AI powered automation toolkit which acts as an agent that discovers MCP servers for you. Point it at GitHub/npm/configure your own discovery, let GPT or Claude analyze the API or MCP or any tool, get ready-to-ship plugin configs. Zero manual work. B2Proxy official 1GB Free Trial, World&#x27;s Leading Proxy Service Platform, Efficient Data Collection Bilibili Interact with the Bilibili video website, enabling actions like searching for videos, retrieving video information, and accessing user data. Bilibili Comments Fetch Bilibili video comments in bulk, including nested replies. Requires a Bilibili cookie for authentication. Booli MCP Server Access Swedish real estate data from Booli.se through a GraphQL API. brosh A browser screenshot tool to capture scrolling screenshots of webpages using Playwright, with support for intelligent section identification and multiple output formats. Browser MCP A fast, lightweight MCP server that empowers LLMs with browser automation via Puppeteer’s structured accessibility data, featuring optional vision mode for complex visual understanding and flexible, cross-platform configuration. Browser Use An AI-driven browser automation server for natural language control and web research, with CLI access. Browser Use Enables AI agents to control web browsers using natural language commands. Browser Use Automate browser tasks using the Browser Use API. Browser Use MCP Server An MCP server that allows AI agents to control a web browser using the browser-use library. BrowserAct BrowserAct MCP Server is a standardized MCP service that lets MCP clients connect to the BrowserAct platform to discover and run browser automation workflows, access results/files and related storage, and trigger real-world actions via natural language. Browserbase official Automate browser interactions in the cloud (e.g. web navigation, data extraction, form filling, and more) BrowserCat Automate remote browsers using the BrowserCat API. BrowserCat MCP Server Remote browser automation using the BrowserCat API. BrowserLoop Take screenshots and read console logs from web pages using Playwright. Buienradar Fetches precipitation data for a given latitude and longitude using Buienradar. CarDeals-MCP A Model Context Protocol (MCP) service that indexes and queries car-deal contexts - fast, flexible search for vehicle listings and marketplace data. Previous 1 2 3 More pages 10 Next Model Context Protocol FAQ What is the Model Context Protocol (MCP)? What problem does MCP solve? Who developed the Model Context Protocol? What are some use cases for MCP? Why is MCP important for AI development? What is the main advantage of using MCP over traditional integration methods? Newest MCP Servers Official MCP Servers Remote MCP Servers Blog 📧 contact@mcpservers.org",
+    "tables": [],
+    "lists": []
+  }
+}

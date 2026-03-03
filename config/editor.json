@@ -1,0 +1,189 @@
+{
+  "vscode": {
+    "settings": {
+      "editor.fontSize": 14,
+      "editor.fontFamily": "'Cascadia Code', 'Fira Code', Consolas, 'Courier New', monospace",
+      "editor.tabSize": 2,
+      "editor.insertSpaces": true,
+      "editor.wordWrap": "on",
+      "editor.lineNumbers": "on",
+      "editor.minimap.enabled": true,
+      "editor.formatOnSave": true,
+      "editor.formatOnType": true,
+      "editor.autoSave": "afterDelay",
+      "editor.autoSaveDelay": 1000,
+      "editor.codeLens": true,
+      "editor.renderWhitespace": "selection",
+      "editor.renderControlCharacters": false,
+      "editor.renderIndentGuides": true,
+      "editor.rulers": [80, 120],
+      "editor.quickSuggestions": true,
+      "editor.suggestSelection": "first",
+      "editor.acceptSuggestionOnEnter": "on",
+      "editor.snippetSuggestions": "inline",
+      "files.autoSave": "afterDelay",
+      "files.autoSaveDelay": 1000,
+      "files.trimTrailingWhitespace": true,
+      "files.insertFinalNewline": true,
+      "files.trimFinalNewlines": true,
+      "explorer.confirmDelete": false,
+      "explorer.confirmDragAndDrop": false,
+      "terminal.integrated.shell.windows": "powershell.exe",
+      "terminal.integrated.fontSize": 12,
+      "workbench.colorTheme": "Default Dark+",
+      "workbench.iconTheme": "material-icon-theme",
+      "workbench.startupEditor": "welcomePageInEmptyWorkbench"
+    },
+    "extensions": {
+      "recommended": [
+        "ms-vscode.vscode-json",
+        "esbenp.prettier-vscode",
+        "dbaeumer.vscode-eslint",
+        "ms-python.python",
+        "ms-python.black-formatter",
+        "ms-python.flake8",
+        "bradlc.vscode-tailwindcss",
+        "formulahendry.auto-rename-tag",
+        "christian-kohler.path-intellisense",
+        "ms-vscode.vscode-typescript-next",
+        "visualstudioexptteam.vscodeintellicode",
+        "ms-vscode.vscode-markdownlint",
+        "yzhang.markdown-all-in-one",
+        "ms-vscode.live-server",
+        "ms-vscode.remote-explorer",
+        "ms-vscode-remote.remote-containers",
+        "github.copilot",
+        "github.copilot-chat",
+        "ms-vscode.test-adapter-converter",
+        "humao.rest-client"
+      ],
+      "language": {
+        "javascript": [
+          "ms-vscode.vscode-typescript-next",
+          "esbenp.prettier-vscode",
+          "dbaeumer.vscode-eslint"
+        ],
+        "python": [
+          "ms-python.python",
+          "ms-python.black-formatter",
+          "ms-python.flake8"
+        ],
+        "markdown": [
+          "yzhang.markdown-all-in-one",
+          "ms-vscode.vscode-markdownlint"
+        ],
+        "json": [
+          "ms-vscode.vscode-json"
+        ]
+      }
+    },
+    "keybindings": {
+      "custom": [
+        {
+          "key": "ctrl+`",
+          "command": "workbench.action.terminal.toggle",
+          "when": "terminal.active"
+        },
+        {
+          "key": "ctrl+shift+o",
+          "command": "workbench.action.files.openFolder"
+        },
+        {
+          "key": "ctrl+shift+p",
+          "command": "workbench.action.showCommands"
+        },
+        {
+          "key": "ctrl+b",
+          "command": "workbench.action.toggleSidebarVisibility"
+        },
+        {
+          "key": "ctrl+j",
+          "command": "workbench.action.togglePanel"
+        }
+      ]
+    }
+  },
+  "general": {
+    "formatting": {
+      "enabled": true,
+      "onSave": true,
+      "languages": ["javascript", "typescript", "python", "json", "markdown"],
+      "options": {
+        "tabWidth": 2,
+        "useTabs": false,
+        "semi": true,
+        "singleQuote": true,
+        "trailingComma": "es5",
+        "bracketSpacing": true,
+        "arrowParens": "avoid"
+      }
+    },
+    "linting": {
+      "enabled": true,
+      "onSave": true,
+      "languages": ["javascript", "typescript", "python"],
+      "rules": {
+        "javascript": {
+          "extends": ["eslint:recommended"],
+          "env": ["node", "es2021"],
+          "parserOptions": {
+            "ecmaVersion": 2021,
+            "sourceType": "module"
+          }
+        },
+        "python": {
+          "extends": ["flake8"],
+          "maxLineLength": 88,
+          "ignore": ["E203", "W503"]
+        }
+      }
+    }
+  },
+  "themes": {
+    "available": [
+      {
+        "name": "Default Dark+",
+        "type": "dark",
+        "id": "vs-dark"
+      },
+      {
+        "name": "Default Light+",
+        "type": "light", 
+        "id": "vs"
+      },
+      {
+        "name": "Monokai Pro",
+        "type": "dark",
+        "id": "monokai-pro"
+      },
+      {
+        "name": "Dracula",
+        "type": "dark",
+        "id": "dracula"
+      }
+    ],
+    "icons": [
+      "material-icon-theme",
+      "vscode-icons",
+      "city-lights-icons"
+    ]
+  },
+  "snippets": {
+    "enabled": true,
+    "languages": ["javascript", "typescript", "python", "json", "markdown"],
+    "custom": [
+      {
+        "name": "Console Log",
+        "prefix": "log",
+        "body": "console.log('$1');",
+        "description": "Console log statement"
+      },
+      {
+        "name": "Function Declaration",
+        "prefix": "func",
+        "body": "function ${1:functionName}(${2:parameters}) {\n\t${3:// body}\n}",
+        "description": "Function declaration"
+      }
+    ]
+  }
+}

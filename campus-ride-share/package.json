@@ -1,0 +1,29 @@
+{
+  "name": "campus-ride-share",
+  "version": "1.0.0",
+  "description": "大学生车站拼车平台 - 基于三重匹配算法的高信任拼车系统",
+  "main": "index.js",
+  "scripts": {
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "cd backend && npm run dev",
+    "client": "cd frontend && npm start",
+    "build": "cd frontend && npm run build",
+    "start": "cd backend && npm start",
+    "setup": "npm install && cd backend && npm install && cd ../frontend && npm install",
+    "docker:build": "docker-compose build",
+    "docker:up": "docker-compose up -d",
+    "docker:down": "docker-compose down"
+  },
+  "keywords": [
+    "carpool",
+    "campus",
+    "matching-algorithm",
+    "ride-share",
+    "university"
+  ],
+  "author": "校园产品架构师",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}

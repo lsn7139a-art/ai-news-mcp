@@ -1,0 +1,87 @@
+{
+  "name": "claude-code-setup",
+  "version": "1.0.0",
+  "description": "Claude Code 配置和开发环境设置",
+  "main": "scripts/main.js",
+  "scripts": {
+    "start": "remotion preview src/index.tsx",
+    "build": "remotion render src/index.tsx RemotionIntro output/remotion-intro.mp4 --overwrite --codec=h264 --fps=30",
+    "setup": "node scripts/setup.js",
+    "verify": "node scripts/verify.js",
+    "create": "node scripts/create-project.js",
+    "clean": "node scripts/clean.js",
+    "config": "node scripts/config.js",
+    "switch-model": "node scripts/switch-model.js",
+    "model": "node scripts/switch-model.js",
+    "add-cloud-model": "node scripts/switch-model.js",
+    "list-models": "node scripts/switch-model.js",
+    "test": "node test-ollama.js",
+    "test:ollama": "node test-ollama.js",
+    "test:jest": "jest",
+    "lint": "eslint scripts/ config/",
+    "format": "prettier --write scripts/ config/ templates/",
+    "docs:serve": "docsify serve docs",
+    "docs:build": "docsify build docs"
+  },
+  "keywords": [
+    "claude",
+    "ai",
+    "code",
+    "setup",
+    "configuration",
+    "automation"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "@remotion/cli": "^4.0.431",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "axios": "^1.13.6",
+    "chalk": "^5.3.0",
+    "cheerio": "^1.0.0-rc.12",
+    "commander": "^11.0.0",
+    "cross-spawn": "^7.0.3",
+    "dotenv": "^16.6.1",
+    "fs-extra": "^11.1.0",
+    "inquirer": "^9.2.0",
+    "lodash": "^4.17.21",
+    "node-cron": "^4.2.1",
+    "nodemailer": "^8.0.1",
+    "ora": "^7.0.0",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "remotion": "^4.0.431",
+    "yaml": "^2.3.0"
+  },
+  "devDependencies": {
+    "docsify-cli": "^4.4.4",
+    "eslint": "^8.50.0",
+    "jest": "^29.7.0",
+    "nodemon": "^3.1.14",
+    "prettier": "^3.0.0"
+  },
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=8.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/claude-code-setup.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/claude-code-setup/issues"
+  },
+  "homepage": "https://github.com/your-username/claude-code-setup#readme",
+  "bin": {
+    "claude-setup": "./scripts/main.js"
+  },
+  "files": [
+    "scripts/",
+    "config/",
+    "templates/",
+    "docs/",
+    "README.md",
+    "LICENSE"
+  ]
+}

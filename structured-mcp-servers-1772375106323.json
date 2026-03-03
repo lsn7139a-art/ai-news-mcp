@@ -1,0 +1,452 @@
+{
+  "url": "https://mcpservers.org/category/web-scraping",
+  "timestamp": "2026-03-01T14:25:06.321Z",
+  "title": "Web Scraping | Awesome MCP Servers",
+  "description": "A curated collection of MCP (Model Context Protocol) servers. Search and discover MCP servers and clients.",
+  "category": "Web Scraping",
+  "stats": {
+    "totalServers": 276,
+    "displayedServers": 29,
+    "officialServers": 4,
+    "sponsoredServers": 1
+  },
+  "servers": [
+    {
+      "id": 1,
+      "name": "Bright Data",
+      "description": "Discover, extract, and interact with the web - one interface powering automated access across the public internet.",
+      "isOfficial": false,
+      "isSponsor": true,
+      "category": "Web Scraping",
+      "tags": [
+        "automation"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "302AI",
+      "description": "BrowserUse An AI-powered browser automation server for natural language control and web research.",
+      "isOfficial": false,
+      "isSponsor": false,
+      "category": "Web Scraping",
+      "tags": [
+        "research",
+        "search"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "BrowserUse",
+      "description": "An AI-powered browser automation server for natural language control and web research.",
+      "isOfficial": false,
+      "isSponsor": false,
+      "category": "Web Scraping",
+      "tags": [
+        "research",
+        "search"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Agentic Deep Researcher",
+      "description": "A deep research agent powered by Crew AI and the LinkUp API.",
+      "isOfficial": false,
+      "isSponsor": false,
+      "category": "Web Scraping",
+      "tags": [
+        "research",
+        "search"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "AgentQL",
+      "description": "Enable AI agents to get structured data from unstructured web with AgentQL.",
+      "isOfficial": true,
+      "isSponsor": false,
+      "category": "Web Scraping",
+      "tags": []
+    },
+    {
+      "id": 6,
+      "name": "AI Shopping Assistant",
+      "description": "A conversational AI shopping assistant for web-based product discovery and decision-making.",
+      "isOfficial": false,
+      "isSponsor": false,
+      "category": "Web Scraping",
+      "tags": [
+        "ecommerce"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Airbnb",
+      "description": "Search for Airbnb listings and retrieve their details.",
+      "isOfficial": false,
+      "isSponsor": false,
+      "category": "Web Scraping",
+      "tags": [
+        "ecommerce",
+        "search"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Airbnb MCP Server",
+      "description": "Search for Airbnb listings and retrieve detailed information without an API key.",
+      "isOfficial": false,
+      "isSponsor": false,
+      "category": "Web Scraping",
+      "tags": [
+        "ecommerce",
+        "search"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Amazon MCP Server",
+      "description": "Scrapes and searches for products on Amazon.",
+      "isOfficial": false,
+      "isSponsor": false,
+      "category": "Web Scraping",
+      "tags": [
+        "scraping",
+        "ecommerce",
+        "search"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Any Browser MCP",
+      "description": "Attaches to existing browser sessions using the Chrome DevTools Protocol for automation and interaction.",
+      "isOfficial": false,
+      "isSponsor": false,
+      "category": "Web Scraping",
+      "tags": []
+    },
+    {
+      "id": 11,
+      "name": "anybrowse",
+      "description": "Convert any URL to LLM-ready Markdown via real Chrome browsers. 3 tools: scrape, crawl, search. Free via MCP, pay-per-use via x402.",
+      "isOfficial": false,
+      "isSponsor": false,
+      "category": "Web Scraping",
+      "tags": [
+        "scraping",
+        "search"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Anysite",
+      "description": "Turn any website into an API",
+      "isOfficial": false,
+      "isSponsor": false,
+      "category": "Web Scraping",
+      "tags": []
+    },
+    {
+      "id": 13,
+      "name": "Apify",
+      "description": "Extract data from any website with thousands of scrapers, crawlers, and automations",
+      "isOfficial": true,
+      "isSponsor": false,
+      "category": "Web Scraping",
+      "tags": [
+        "scraping"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Automatic MCP Discovery",
+      "description": "AI powered automation toolkit which acts as an agent that discovers MCP servers for you. Point it at GitHub/npm/configure your own discovery, let GPT or Claude analyze the API or MCP or any tool, get ready-to-ship plugin configs. Zero manual work.",
+      "isOfficial": false,
+      "isSponsor": false,
+      "category": "Web Scraping",
+      "tags": []
+    },
+    {
+      "id": 15,
+      "name": "B2Proxy",
+      "description": "1GB Free Trial, World's Leading Proxy Service Platform, Efficient Data Collection",
+      "isOfficial": true,
+      "isSponsor": false,
+      "category": "Web Scraping",
+      "tags": [
+        "proxy"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Bilibili",
+      "description": "Interact with the Bilibili video website, enabling actions like searching for videos, retrieving video information, and accessing user data.",
+      "isOfficial": false,
+      "isSponsor": false,
+      "category": "Web Scraping",
+      "tags": [
+        "video",
+        "search"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Bilibili Comments",
+      "description": "Fetch Bilibili video comments in bulk, including nested replies. Requires a Bilibili cookie for authentication.",
+      "isOfficial": false,
+      "isSponsor": false,
+      "category": "Web Scraping",
+      "tags": [
+        "video"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Booli MCP Server",
+      "description": "Access Swedish real estate data from Booli.se through a GraphQL API.",
+      "isOfficial": false,
+      "isSponsor": false,
+      "category": "Web Scraping",
+      "tags": [
+        "real-estate"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "brosh",
+      "description": "A browser screenshot tool to capture scrolling screenshots of webpages using Playwright, with support for intelligent section identification and multiple output formats.",
+      "isOfficial": false,
+      "isSponsor": false,
+      "category": "Web Scraping",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Browser MCP",
+      "description": "A fast, lightweight MCP server that empowers LLMs with browser automation via Puppeteer's structured accessibility data, featuring optional vision mode for complex visual understanding and flexible, cross-platform configuration.",
+      "isOfficial": false,
+      "isSponsor": false,
+      "category": "Web Scraping",
+      "tags": []
+    },
+    {
+      "id": 21,
+      "name": "Browser Use",
+      "description": "An AI-driven browser automation server for natural language control and web research, with CLI access.",
+      "isOfficial": false,
+      "isSponsor": false,
+      "category": "Web Scraping",
+      "tags": [
+        "research",
+        "search"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Browser Use MCP Server",
+      "description": "An MCP server that allows AI agents to control a web browser using the browser-use library.",
+      "isOfficial": false,
+      "isSponsor": false,
+      "category": "Web Scraping",
+      "tags": []
+    },
+    {
+      "id": 23,
+      "name": "BrowserAct",
+      "description": "BrowserAct MCP Server is a standardized MCP service that lets MCP clients connect to the BrowserAct platform to discover and run browser automation workflows, access results/files and related storage, and trigger real-world actions via natural language.",
+      "isOfficial": false,
+      "isSponsor": false,
+      "category": "Web Scraping",
+      "tags": []
+    },
+    {
+      "id": 24,
+      "name": "Browserbase",
+      "description": "Automate browser interactions in the cloud (e.g. web navigation, data extraction, form filling, and more)",
+      "isOfficial": true,
+      "isSponsor": false,
+      "category": "Web Scraping",
+      "tags": [
+        "automation",
+        "cloud"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "BrowserCat",
+      "description": "Automate remote browsers using the BrowserCat API.",
+      "isOfficial": false,
+      "isSponsor": false,
+      "category": "Web Scraping",
+      "tags": [
+        "automation",
+        "cloud"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "BrowserCat MCP Server",
+      "description": "Remote browser automation using the BrowserCat API.",
+      "isOfficial": false,
+      "isSponsor": false,
+      "category": "Web Scraping",
+      "tags": [
+        "cloud"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "BrowserLoop",
+      "description": "Take screenshots and read console logs from web pages using Playwright.",
+      "isOfficial": false,
+      "isSponsor": false,
+      "category": "Web Scraping",
+      "tags": []
+    },
+    {
+      "id": 28,
+      "name": "Buienradar",
+      "description": "Fetches precipitation data for a given latitude and longitude using Buienradar.",
+      "isOfficial": false,
+      "isSponsor": false,
+      "category": "Web Scraping",
+      "tags": [
+        "weather"
+      ]
+    },
+    {
+      "id": 29,
+      "name": "CarDeals-MCP",
+      "description": "A Model Context Protocol (MCP) service that indexes and queries car-deal contexts - fast, flexible search for vehicle listings and marketplace data.",
+      "isOfficial": false,
+      "isSponsor": false,
+      "category": "Web Scraping",
+      "tags": [
+        "search"
+      ]
+    }
+  ],
+  "navigation": [
+    {
+      "text": "Home",
+      "url": "https://mcpservers.org/"
+    },
+    {
+      "text": "Remote Servers",
+      "url": "https://mcpservers.org/remote-mcp-servers"
+    },
+    {
+      "text": "Clients",
+      "url": "https://mcpservers.org/clients"
+    },
+    {
+      "text": "Claude Skills",
+      "url": "https://mcpservers.org/claude-skills"
+    },
+    {
+      "text": "Submit",
+      "url": "https://mcpservers.org/submit"
+    },
+    {
+      "text": "Advertise",
+      "url": "https://mcpservers.org/advertise"
+    },
+    {
+      "text": "Submit",
+      "url": "https://mcpservers.org/submit"
+    },
+    {
+      "text": "Featured",
+      "url": "https://mcpservers.org/"
+    },
+    {
+      "text": "All",
+      "url": "https://mcpservers.org/all"
+    },
+    {
+      "text": "Official 🌟",
+      "url": "https://mcpservers.org/official"
+    },
+    {
+      "text": "Search",
+      "url": "https://mcpservers.org/category/search"
+    },
+    {
+      "text": "Web Scraping",
+      "url": "https://mcpservers.org/category/web-scraping"
+    },
+    {
+      "text": "Communication",
+      "url": "https://mcpservers.org/category/communication"
+    },
+    {
+      "text": "Productivity",
+      "url": "https://mcpservers.org/category/productivity"
+    },
+    {
+      "text": "Development",
+      "url": "https://mcpservers.org/category/development"
+    },
+    {
+      "text": "Database",
+      "url": "https://mcpservers.org/category/database"
+    },
+    {
+      "text": "Cloud Service",
+      "url": "https://mcpservers.org/category/cloud-service"
+    },
+    {
+      "text": "File System",
+      "url": "https://mcpservers.org/category/file-system"
+    },
+    {
+      "text": "Cloud Storage",
+      "url": "https://mcpservers.org/category/cloud-storage"
+    },
+    {
+      "text": "Version Control",
+      "url": "https://mcpservers.org/category/version-control"
+    },
+    {
+      "text": "Other",
+      "url": "https://mcpservers.org/category/other"
+    },
+    {
+      "text": "1",
+      "url": "https://mcpservers.org/category/web-scraping"
+    },
+    {
+      "text": "2",
+      "url": "https://mcpservers.org/category/web-scraping?page=2"
+    },
+    {
+      "text": "3",
+      "url": "https://mcpservers.org/category/web-scraping?page=3"
+    },
+    {
+      "text": "10",
+      "url": "https://mcpservers.org/category/web-scraping?page=10"
+    },
+    {
+      "text": "Newest MCP Servers",
+      "url": "https://mcpservers.org/all?sort=newest"
+    },
+    {
+      "text": "Official MCP Servers",
+      "url": "https://mcpservers.org/official"
+    },
+    {
+      "text": "Remote MCP Servers",
+      "url": "https://mcpservers.org/remote-mcp-servers"
+    },
+    {
+      "text": "Blog",
+      "url": "https://blog.mcpservers.org/"
+    },
+    {
+      "text": "📧 contact@mcpservers.org",
+      "url": "mailto:contact@mcpservers.org"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "name": "Claude Code Workspace",
+  "version": "1.0.0",
+  "root": "d:\\AI\\Claude code",
+  "structure": {
+    "directories": [
+      "config",
+      "scripts", 
+      "templates",
+      "docs",
+      "projects",
+      "logs",
+      ".cache",
+      ".vscode"
+    ],
+    "files": [
+      "README.md",
+      ".env.example",
+      ".gitignore",
+      "package.json"
+    ]
+  },
+  "settings": {
+    "autoSave": true,
+    "autoLoad": true,
+    "trackChanges": true,
+    "backupEnabled": true,
+    "backupInterval": "daily",
+    "maxBackups": 7
+  },
+  "projects": {
+    "defaultPath": "projects",
+    "autoCreate": true,
+    "templates": {
+      "node": "templates/node-project",
+      "python": "templates/python-project", 
+      "web": "templates/web-app",
+      "cli": "templates/cli-tool"
+    },
+    "naming": {
+      "pattern": "kebab-case",
+      "prefix": "",
+      "suffix": "",
+      "timestamp": false
+    }
+  },
+  "paths": {
+    "workspaceRoot": "d:\\AI\\Claude code",
+    "configDir": "config",
+    "scriptsDir": "scripts",
+    "templatesDir": "templates",
+    "docsDir": "docs",
+    "projectsDir": "projects",
+    "logsDir": "logs",
+    "cacheDir": ".cache"
+  },
+  "permissions": {
+    "read": ["*"],
+    "write": ["projects/*", "logs/*", ".cache/*"],
+    "execute": ["scripts/*"],
+    "exclude": ["config/*.json", ".env*"]
+  },
+  "monitoring": {
+    "enabled": true,
+    "watchFiles": true,
+    "watchDirectories": true,
+    "ignorePatterns": [
+      "node_modules/**",
+      ".git/**",
+      "*.log",
+      ".cache/**"
+    ],
+    "events": [
+      "add",
+      "change", 
+      "unlink",
+      "addDir",
+      "unlinkDir"
+    ]
+  },
+  "integration": {
+    "git": {
+      "enabled": true,
+      "autoCommit": false,
+      "autoPush": false,
+      "branch": "main",
+      "remote": "origin"
+    },
+    "vscode": {
+      "enabled": true,
+      "autoOpen": true,
+      "extensions": [
+        "ms-vscode.vscode-json",
+        "bradlc.vscode-tailwindcss",
+        "esbenp.prettier-vscode",
+        "ms-python.python",
+        "ms-vscode.vscode-typescript-next"
+      ]
+    }
+  },
+  "environment": {
+    "node": {
+      "version": ">=16.0.0",
+      "packageManager": "npm"
+    },
+    "python": {
+      "version": ">=3.8.0",
+      "venv": true
+    },
+    "shell": "powershell",
+    "terminal": "integrated"
+  }
+}
